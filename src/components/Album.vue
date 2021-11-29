@@ -7,10 +7,10 @@
         <div class="year">{{details.year}}</div>
     </div>
 </div>
-  
 </template>
 
 <script>
+
 export default {
   name: 'Album',
   props:{
